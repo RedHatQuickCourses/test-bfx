@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Samle Break-fix Course
+  start_page: test-bfx::index.adoc
 
 content:
   sources:

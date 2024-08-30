@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: test-bfx
+title: Samle Break-fix Course
 version: 1
 nav:
 - modules/ROOT/nav.adoc
