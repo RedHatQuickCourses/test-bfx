@@ -2,7 +2,7 @@
 
 == In this break-fix:
 
-**Type of issue:**
+**Type of issue:** edited from devspace
 
 FIXME: Describe an issue type/category that this specific issue falls into, like, "A Red Hat Enterprise Linux 7 system won't boot after a kernel update." Save issue-specific details for the break-fix scenario page.
 
