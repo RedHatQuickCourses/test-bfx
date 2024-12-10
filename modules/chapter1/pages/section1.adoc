@@ -6,6 +6,7 @@ This section presents a scenario based on a real customer issue.
 . Follow any instructions provided for setting up your lab environment.
 . Resolve the issue as simulated in your lab environment.
 . After resolving the issue, run the grading script and submit the completion code as prompted.
+Nate was also here
 
 
 **You must successfully complete this section to receive a passing grade for this module.**
